@@ -1,0 +1,23 @@
+This project analyzes sales data to extract business insights about 
+customers, products, cities, and time trends.
+
+#Key Metrics#
+Total Revenue: 13500.0
+Best Customer: Ali
+Best Product: phone
+Top city: Berlin
+
+
+#Key Insights#
+- A small group of customers generates a large portion of total revenue.
+- Some products generate high revenue despite low quantity sold.
+- Sales are concentrated in a few key cities.
+- Revenue shows fluctuations over time indicating possible seasonality.
+
+#Business Impact#
+The business is highly dependent on a small number of customers and products, which 
+represents both opportunity and risk.
+
+#Recommendation#
+Focus on retaining high-value customers, diversifying product performance, and 
+expanding in underperforming cities.
